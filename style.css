@@ -15,7 +15,7 @@ body {
   background-color: #ccc6;
 }
 a {
-  color: var();
+  color: var(--secondaryColor);
 }
 a:hover {
   color: var(--highlight);
